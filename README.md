@@ -14,6 +14,7 @@ Treat gists as lego bricks. Emphasising the resuability of code snippets.
 ### JavaScript
 
 1. JavaScript/Crypto/hasher.js
+2. JavaScript/TypeChecking/isValid.js
 
 ### C, C++
 
